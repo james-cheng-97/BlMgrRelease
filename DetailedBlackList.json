@@ -17,6 +17,7 @@
         "Punchline": "A plugin manages blacklisted players and auto track them in a party.",
         "AcceptsFeedback": true,
         "DownloadLinkInstall": "https://github.com/james-cheng-97/BlMgrRelease/releases/download/Beta_0.0.0.3/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/james-cheng-97/BlMgrRelease/releases/download/Beta_0.0.0.3/latest.zip"
+        "DownloadLinkUpdate": "https://github.com/james-cheng-97/BlMgrRelease/releases/download/Beta_0.0.0.3/latest.zip",
+        "IconUrl": "https://github.com/james-cheng-97/BlMgrRelease/blob/main/SkillIssue.png"
     }
 ]
