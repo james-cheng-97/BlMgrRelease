@@ -4,8 +4,8 @@
         "Name": "DetailedBlacklist",
         "Description": "The plugin manages the blacklisted players, tracks their lodestone ids and reasons to blacklist them",
         "InternalName": "DetailedBlackList",
-        "AssemblyVersion": "0.0.0.3",
-        "TestingAssemblyVersion": "0.0.0.3",
+        "AssemblyVersion": "0.0.0.4",
+        "TestingAssemblyVersion": "0.0.0.4",
         "RepoUrl": "https://github.com/james-cheng-97/BlackListManager",
         "ApplicableVersion": "any",
         "Tags": [
@@ -16,8 +16,8 @@
         "LoadPriority": 0,
         "Punchline": "A plugin manages blacklisted players and auto track them in a party.",
         "AcceptsFeedback": true,
-        "DownloadLinkInstall": "https://github.com/james-cheng-97/BlMgrRelease/releases/download/Beta_0.0.0.3/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/james-cheng-97/BlMgrRelease/releases/download/Beta_0.0.0.3/latest.zip",
+        "DownloadLinkInstall": "https://github.com/james-cheng-97/BlMgrRelease/releases/download/Beta_0.0.0.4/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/james-cheng-97/BlMgrRelease/releases/download/Beta_0.0.0.4/latest.zip",
         "IconUrl": "https://github.com/james-cheng-97/BlMgrRelease/blob/main/SkillIssue.png"
     }
 ]
