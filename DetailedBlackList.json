@@ -2,7 +2,7 @@
     {
         "Author": "James",
         "Name": "DetailedBlacklist",
-        "Description": "The plugin manages the blacklisted players, track their lodestone ids and reasons to blacklist them",
+        "Description": "The plugin manages the blacklisted players, tracks their lodestone ids and reasons to blacklist them",
         "InternalName": "DetailedBlackList",
         "AssemblyVersion": "0.0.0.1",
         "TestingAssemblyVersion": "0.0.0.1",
