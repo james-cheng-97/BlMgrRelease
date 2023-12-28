@@ -1,20 +1,22 @@
-{
-    "Author": "James",
-    "Name": "DetailedBlacklist",
-    "Description": "The plugin manages the black listed players, track their lodestone ids and reasons to black list them",
-    "InternalName": "DetailedBlackList",
-    "AssemblyVersion": "0.0.0.1",
-    "TestingAssemblyVersion": "0.0.0.1",
-    "RepoUrl": "https://github.com/james-cheng-97/BlackListManager",
-    "ApplicableVersion": "any",
-    "Tags": [
-        "blacklist",
-        "plugin"
-    ],
-    "DalamudApiLevel": 9,
-    "LoadPriority": 0,
-    "Punchline": "A plugin manages black listed players and auto track them in a party.",
-    "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/james-cheng-97/BlMgrRelease/releases/download/Beta/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/james-cheng-97/BlMgrRelease/releases/download/Beta/latest.zip"
-}
+[
+    {
+        "Author": "James",
+        "Name": "DetailedBlacklist",
+        "Description": "The plugin manages the black listed players, track their lodestone ids and reasons to black list them",
+        "InternalName": "DetailedBlackList",
+        "AssemblyVersion": "0.0.0.1",
+        "TestingAssemblyVersion": "0.0.0.1",
+        "RepoUrl": "https://github.com/james-cheng-97/BlackListManager",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "blacklist",
+            "plugin"
+        ],
+        "DalamudApiLevel": 9,
+        "LoadPriority": 0,
+        "Punchline": "A plugin manages black listed players and auto track them in a party.",
+        "AcceptsFeedback": true,
+        "DownloadLinkInstall": "https://github.com/james-cheng-97/BlMgrRelease/releases/download/Beta/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/james-cheng-97/BlMgrRelease/releases/download/Beta/latest.zip"
+    }
+]
